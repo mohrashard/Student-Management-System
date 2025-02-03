@@ -36,3 +36,13 @@ If you're using the command line:
 javac StudentManagementSystem.java
 java StudentManagementSystem
 Or, if you're using an IDE like IntelliJ IDEA or Eclipse, open the project and run the StudentManagementSystem.java class directly.
+
+##Project Report:
+Please refer to the Report.docx file in the repository for a detailed explanation of the project, including UML diagrams, class relationships, and design decisions.
+
+##How to Contribute:
+1. Fork the repository
+2. Create a new branch for your feature (git checkout -b feature-name)
+3. Commit your changes (git commit -m 'Add new feature')
+4. Push to the branch (git push origin feature-name)
+5. Create a pull request
